@@ -1,5 +1,5 @@
 
-![Project GIF](https://media4.giphy.com/media/ZprGmF5ulkHJm80jy5/giphy.gif?cid=6c09b952805210dvozhurtwzdjtnepa5zsiyi84g103oku9u&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)
+<img src="https://media4.giphy.com/media/ZprGmF5ulkHJm80jy5/giphy.gif?cid=6c09b952805210dvozhurtwzdjtnepa5zsiyi84g103oku9u&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="Project GIF" width="500" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Gamal-Serag) 
